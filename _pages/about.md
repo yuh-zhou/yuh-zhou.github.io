@@ -19,4 +19,5 @@ Education
 
 Conference Papers
 ======
+* Huan Xie, Qing Liu, Chengyang Luo, **Yuhan Zhou**, Yunjun Gao. Truss-based Why-not Community Search. <i><font color=blue>KDD 2025</font></i>. <font color=red>(CCF A)</font>
 * Yuxiang Wang, Arijit Khan, Xiaoliang Xu, Shuzhan Ye, Shihuang Pan, and **Yuhan Zhou**. Approximate and Interactive Processing of Aggregate Queries on Knowledge Graphs: A Demonstration. <i><font color=blue>CIKM 2022</font></i>. <font color=red>(CCF B)</font>
